@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-author - Aayushi Rana
+author - Aayushi Rana(GITHUb)
